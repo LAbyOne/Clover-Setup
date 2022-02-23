@@ -1,5 +1,6 @@
 # Clover Setup
-Little tool to help install and build the boot loader 
+Little tool to help install and build the CloverBootloader
+From scratch or to replace the source, maintaining your personal settings.
 
 ![img src](Image1.png)
 ##
