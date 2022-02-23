@@ -3,7 +3,7 @@ Little tool to help install and build the boot loader
 
 ![img src](Image1.png)
 ##
-![img src](image2.png)
+![img src](image3.png)
 ##
 Direct [Download](https://github.com/LAbyOne/Clover-Builder/raw/main/Clover_Setup.dmg)
 ##
