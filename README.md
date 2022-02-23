@@ -14,5 +14,5 @@ Version 1.4
 ##
 To make sure all will work fine, as first try you should choose choice 7 = build all
 
-Otherwise you risk to have some components to fail due to lack of corresponding tool in toolchain.
+Otherwise you risk to have some components to fail due to lack of needed files in toolchain.
 ##
