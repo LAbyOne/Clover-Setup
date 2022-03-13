@@ -8,7 +8,7 @@ From scratch or to replace the source, maintaining your personal settings.
 
 ![img src](image3.png)
 ##
-Version 1.4 
+Version 2.0
 
 [Download](https://github.com/LAbyOne/Clover-Builder/raw/main/Clover_Setup.dmg)
 ##
