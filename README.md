@@ -10,6 +10,10 @@ From scratch or to replace the source, maintaining your personal settings.
 ##
 Version 2.0
 
+[Download](https://github.com/LAbyOne/Clover-Builder/raw/main/Clover_SetUp.dmg)
+##
+Version 1.4
+
 [Download](https://github.com/LAbyOne/Clover-Builder/raw/main/Clover_Setup.dmg)
 ##
 To make sure all will work fine, as first try you should select choice 7 = build all
